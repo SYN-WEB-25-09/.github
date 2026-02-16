@@ -9,3 +9,5 @@
     3.2. [Wiederholung CSS Grid](https://github.com/SYN-WEB-25-09/WDH-CSS-GRID-RESPONSIVE-DESIGN)
 
 4. [JavaScript Woche 1](https://github.com/SYN-WEB-25-09/js-woche1-demo)
+
+    4.1 [Wiederholung Grundlagen JavaScript](https://github.com/SYN-WEB-25-09/WDH-JAVASCRIPT-GRUNDLAGEN)
