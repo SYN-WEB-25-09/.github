@@ -11,3 +11,5 @@
 4. [JavaScript Woche 1](https://github.com/SYN-WEB-25-09/js-woche1-demo)
 
     4.1 [Wiederholung Grundlagen JavaScript](https://github.com/SYN-WEB-25-09/WDH-JAVASCRIPT-GRUNDLAGEN)
+
+    4.2 [Wiederholung Rezepte](https://github.com/SYN-WEB-25-09/js-wiederholung-rezepte)
