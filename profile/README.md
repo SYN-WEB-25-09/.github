@@ -17,3 +17,5 @@
 5. [JavaScript Woche 2](https://github.com/SYN-WEB-25-09/js-woche-2-demo)
 
     5.1 [Wiederholung Elemente erzeugen](https://github.com/SYN-WEB-25-09/wdh-js-elemente-erzeugen)
+
+6. [Grupperprojekt Wiederholung](https://github.com/SYN-WEB-25-09/gruppenprojekt-wiederholung.git)
