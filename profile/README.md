@@ -20,4 +20,4 @@
 
 6. [Grupperprojekt Wiederholung](https://github.com/SYN-WEB-25-09/gruppenprojekt-wiederholung.git)
    
-   6.1 [Wiederholung API] (https://github.com/SYN-WEB-25-09/nasaAPI)
+   6.1 [Wiederholung API](https://github.com/SYN-WEB-25-09/nasaAPI)
