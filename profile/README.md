@@ -21,3 +21,7 @@
 6. [Grupperprojekt Wiederholung](https://github.com/SYN-WEB-25-09/gruppenprojekt-wiederholung.git)
    
    6.1 [Wiederholung API](https://github.com/SYN-WEB-25-09/nasaAPI)
+
+7. Abschlussphase
+
+   7.1 [Bonus Debugging](https://github.com/SYN-WEB-25-09/bonus_debugging)
