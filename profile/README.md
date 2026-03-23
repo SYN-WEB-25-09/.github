@@ -25,3 +25,4 @@
 7. Abschlussphase
 
    7.1 [Bonus Debugging](https://github.com/SYN-WEB-25-09/bonus_debugging)
+   7.2 [Wiederholung Flexbox & Grid](https://github.com/SYN-WEB-25-09/Flexbox-Grid)
