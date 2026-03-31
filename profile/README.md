@@ -29,3 +29,5 @@
    7.2 [Wiederholung Flexbox & Grid](https://github.com/SYN-WEB-25-09/Flexbox-Grid)
 
    7.3 [Bonus Tailwind](https://github.com/SYN-WEB-25-09/Bonus-Tailwind)
+
+   7.4 [Bonus a11y](https://github.com/SYN-WEB-25-09/bonus_a11y.git)
